@@ -18,12 +18,12 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light me-auto">
         <div class="container">
-            <a class="navbar-brand" href="/php-crash/sunnahsports/index.php">Sunnah Sports</a>
+            <a class="navbar-brand" href="sunnahsports/index.php">Sunnah Sports</a>
         </div>
         <div class="container">
-            <a class="navbar-active" href="/php-crash/sunnahsports/classes.php">Classes</a>
+            <a class="navbar-active" href="sunnahsports/classes.php">Classes</a>
         </div>
         <div class="container">
-            <a class="nav-item navbar-active" href="/php-crash/sunnahsports/logout.php">Log Out</a>
+            <a class="nav-item navbar-active" href="sunnahsports/logout.php">Log Out</a>
         </div>
     </nav>
